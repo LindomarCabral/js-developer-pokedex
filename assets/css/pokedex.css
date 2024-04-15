@@ -163,3 +163,15 @@
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
 }
+
+.clicavel{
+    cursor: pointer;
+    }
+    
+    .clicavel:hover{
+    color: red;
+    }
+    
+    .clicavel:active{
+    color: blue;
+    }
